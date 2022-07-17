@@ -1,0 +1,12 @@
+{
+    "name": "shiro/book",
+    "description": "Esta es una pagina de libros",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shiro\\Book\\": "src/"
+        }
+    },
+    "require": {}
+}

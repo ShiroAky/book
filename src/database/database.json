@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "token": "17377489",
+        "name": "Cursos de php",
+        "author": "Juan",
+        "description": "PHP es un lenguaje de programación ampliamente utilizado a nivel mundial en el área de programación web porque nos permite crear páginas web dinamicas. Además, nos permite crear aplicaciones móviles, juegos interactivos y programar servidores web, entre otras aplicaciones",
+        "cover": "https://images6.alphacoders.com/500/thumbbig-500777.webp",
+        "capitulos": [
+            {
+                "id": "1",
+                "name": "Curso de php: básico",
+                "cover": "https://images6.alphacoders.com/500/thumbbig-500777.webp"
+            },
+            {
+                "id": "2",
+                "name": "Curso de php: intermedio",
+                "cover": "https://images6.alphacoders.com/500/thumbbig-500777.webp"
+            },
+            {
+                "id": "3",
+                "name": "Curso de php: avanzado",
+                "cover": "https://images6.alphacoders.com/500/thumbbig-500777.webp"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "token": "17377933",
+        "name": "Cursos de JavaScript",
+        "author": "Doyun",
+        "description": "JavaScript es un lenguaje de programación ampliamente utilizado a nivel mundial en el área de programación web porque nos permite crear páginas web interactivas. Además, nos permite crear aplicaciones móviles, juegos interactivos y programar servidores web, entre otras aplicaciones",
+        "cover": "https://images2.alphacoders.com/500/thumbbig-500774.webp",
+        "capitulos": [
+            {
+                "id": "1",
+                "name": "Curso de JavaScript: básico",
+                "cover": "https://images2.alphacoders.com/500/thumbbig-500774.webp"
+            },
+            {
+                "id": "2",
+                "name": "Curso de JavaScript: intermedio",
+                "cover": "https://images2.alphacoders.com/500/thumbbig-500774.webp"
+            },
+            {
+                "id": "3",
+                "name": "Curso de JavaScript: avanzado",
+                "cover": "https://images2.alphacoders.com/500/thumbbig-500774.webp"
+            }
+        ]
+    }
+]
